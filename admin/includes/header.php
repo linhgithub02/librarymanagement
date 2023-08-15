@@ -53,7 +53,7 @@
                                      <li role="presentation"><a role="menuitem" tabindex="-1" href="manage-issued-books.php">Quản lý phiếu mượn</a></li>
                                 </ul>
                             </li>
-                             <li><a href="reg-students.php">Độc giả</a></li>
+                             <li><a href="manage-readers.php">Độc giả</a></li>
                     
                         </ul>
                     </div>
